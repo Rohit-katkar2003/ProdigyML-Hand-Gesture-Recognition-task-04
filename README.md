@@ -9,6 +9,7 @@ This project aims to develop a hand gesture recognition model that accurately id
 
 
 📦 Dataset
+
 downloaded the data from this link :- https://www.kaggle.com/datasets/gti-upm/leapgestrecog
 
 
