@@ -7,7 +7,8 @@ This project aims to develop a hand gesture recognition model that accurately id
 * Human-Computer Interaction: Facilitate intuitive and natural interaction between users and machines.
 * Gesture-Based Control: Enable gesture-based control systems for diverse applications.
 
-  📦 Dataset
+
+📦 Dataset
 downloaded the data from this link :- https://www.kaggle.com/datasets/gti-upm/leapgestrecog
 
 
