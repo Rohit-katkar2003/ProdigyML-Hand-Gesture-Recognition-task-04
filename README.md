@@ -1,4 +1,4 @@
-🖐️ Hand Gesture Recognition Model
+# 🖐️ Hand Gesture Recognition Model
 📋 Project Overview
 This project aims to develop a hand gesture recognition model that accurately identifies and classifies different hand gestures from image or video data. The model is designed to enhance intuitive human-computer interaction and enable gesture-based control systems, providing a seamless and natural interface for users.
 
